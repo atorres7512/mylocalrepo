@@ -1,3 +1,3 @@
 # mylocalrepo
 
-##[view reference site](copy link from github)
+##[view reference site](https://atorres7512.github.io/mylocalrepo/)
